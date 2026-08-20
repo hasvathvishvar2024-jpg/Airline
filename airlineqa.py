@@ -1,4 +1,4 @@
-from Airlinereservation import Airlinereservation
+from AirlineReservation import AirlineReservation
 a = AirlineReservation()
 passed = 0
 def test(n, name, expected, actual):
